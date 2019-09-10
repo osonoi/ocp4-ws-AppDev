@@ -2,16 +2,13 @@
 # ハンズオン環境および前提
 minishift, 及びIBM Cloud上のOpenShiftで動作を確認中です。
 minishiftの環境構築はこちらを参照ください。
-https://docs.okd.io/latest/minishift/getting-started/installing.html
-Macでメモリー８GBの機種の場合はVirtualBoxではなくXhyveをお勧めします。
+https://docs.okd.io/latest/minishift/getting-started/installing.html  
+Macでメモリー８GBの機種の場合はVirtualBoxではなくXhyveをお勧めします。  
+WindowsでHyper-Vを使う場合はこちらを参照ください。  
+https://qiita.com/osonoi/items/8e818e9d3018cb14ee4a
 
-
-本ハンズオンは，構築済みのOpenShift(OCP)クラスターを参加者全員で共有して作業を進めます。
-
-OCPクラスターに対するCLI操作をを行う際は，クライアントPCから **ocコマンド** を使って制御します。GUI操作は，クライアントPCのブラウザ(**Chrome/Firefox推奨**)を使用します。
 
 # ハンズオン概要
-本ハンズオンは，OpenShift4(以降，OCPまたはOCP4)の基礎編です。
 
 以下を学びます。
 - OCP4クラスターの構築手順

@@ -1,22 +1,11 @@
-# タイムテーブル
-Red Hat OpenShift Container Platform 4 ワークショップ
-
-|Time|Agenda|Content|
-|:---:|:---|:---|
-|13:00-13:30|会場準備||
-|13:30-13:45|<ハンズオン> 準備|ハンズオン環境説明 <br>環境セットアップ|
-|13:45-14:15|<講義> OCP4 概要|OCP4の特徴紹介|
-|14:15-14:30|<デモ> |OCP4 インストール <br>OCP4 コンソールツアー |
-|14:30-15:30|<ハンズオン> 前半|Lab1. コンテナイメージのビルド&デプロイ<br/>Lab2. Jenkinsベースのビルドパイプライン|
-|15:30-15:45|Break||
-|15:45-16:00|<講義> OCP4 でのアプリケーションデプロイ|S2I (Source to Image) <br>CI/CD|
-|16:00-17:15|<ハンズオン> 後半 <br>|Lab3. 複数コンテナの連携 <br>Lab4. 様々なデプロイメント手法 |
-|17:15-17:30|QA / クロージング / アンケート||
-
-# 諸連絡
-OCPクラスター接続情報など (Etherpad) ==> http://bit.ly/openshift-20190724
 
 # ハンズオン環境および前提
+minishift, 及びIBM Cloud上のOpenShiftで動作を確認中です。
+minishiftの環境構築はこちらを参照ください。
+https://docs.okd.io/latest/minishift/getting-started/installing.html
+Macでメモリー８GBの機種の場合はVirtualBoxではなくXhyveをお勧めします。
+
+
 本ハンズオンは，構築済みのOpenShift(OCP)クラスターを参加者全員で共有して作業を進めます。
 
 OCPクラスターに対するCLI操作をを行う際は，クライアントPCから **ocコマンド** を使って制御します。GUI操作は，クライアントPCのブラウザ(**Chrome/Firefox推奨**)を使用します。

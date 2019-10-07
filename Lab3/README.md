@@ -9,13 +9,15 @@ Node.jsアプリケーションを作成し、MongoDBと接続する上で必要
 
 1. 任意のプロジェクトを選択します
 
-    ないプロジェクトは右上の"+ Create Project"で任意のプロジェクト名（以下の例では dev01)を入力"Create"してください。
+    プロジェクトがない場合は右上の"+ Create Project"で任意のプロジェクト名（以下の例では dev01)を入力"Create"してください。
 
     ![](images/create_project.png)
 
-1. Catalog > Developer Catalog > と選択し、「mongodb (ephemeral)」と検索し、MongoDB(Ephemeral)を選択してください。
+1. Browse Catalogをクリック　　Catalog > Developer Catalog > と選択し、「mongodb (ephemeral)」と検索し、MongoDB(Ephemeral)を選択してください。
 
-    ![](images/mongo1.png)
+    ![](images/browse_catalog.png)
+    
+    ![](images/browse_catalog.png)
 
 1. Create Service Instanceをクリックしたら下記のような画面になります。そのままCreateをクリックしてください。
   

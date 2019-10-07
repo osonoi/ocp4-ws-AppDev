@@ -17,7 +17,7 @@ Node.jsアプリケーションを作成し、MongoDBと接続する上で必要
 
     ![](images/browse_catalog.png)
     
-    ![](images/browse_catalog.png)
+    ![](images/select_mongo.png)
 
 1. Create Service Instanceをクリックしたら下記のような画面になります。そのままCreateをクリックしてください。
   

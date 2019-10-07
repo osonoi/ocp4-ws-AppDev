@@ -11,7 +11,7 @@ Node.jsアプリケーションを作成し、MongoDBと接続する上で必要
 
     ないプロジェクトは右上の"+ Create Project"で任意のプロジェクト名（以下の例では dev01)を入力"Create"してください。
 
-    ![](images/create_application_using_existedImage_1.png)
+    ![](images/create_project.png)
 
 1. Catalog > Developer Catalog > と選択し、「mongodb (ephemeral)」と検索し、MongoDB(Ephemeral)を選択してください。
 
